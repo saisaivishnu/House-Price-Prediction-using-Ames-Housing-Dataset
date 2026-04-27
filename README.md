@@ -1,2 +1,3 @@
 # House-Price-Prediction-using-Ames-Housing-Dataset
-•Performed exploratory data analysis (EDA) on the Ames Housing dataset containing 80+ housing , identifying key drivers of property value such as overall quality, living area, and neighborhood. •Conducted feature engineering, data preprocessing, and outlier treatment and optimized model performance using cross-validation and hyper-parameter tuning.
+Performed exploratory data analysis (EDA) on the Ames Housing dataset containing 80+ housing , identifying key drivers of property value such as overall quality, living area, and neighborhood. 
+Conducted feature engineering, data preprocessing, and outlier treatment and optimized model performance using cross-validation and hyper-parameter tuning.
